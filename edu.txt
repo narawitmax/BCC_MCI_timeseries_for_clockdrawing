@@ -1,0 +1,10 @@
+id	description	display_flag
+0	ไม่ได้เข้าศึกษา (No education)	1
+1	ไม่เคยเรียนมัธยมศึกษาปีที่ 1	0
+10	ต่ำกว่ามัธยมศึกษาตอนปลาย (Less than high school)	1
+11	มัธยมศึกษาตอนปลาย (High school, no college)	1
+12	ปวช./ปวส. (College, no degree)	1
+13	ปริญญาตรี (Bachelor degree)	1
+14	ปริญญาโท (Master degree)	1
+15	ปริญญาเฉพาะทาง (Professional degree)	1
+16	ปริญญาเอก (Doctoral degree)	1
